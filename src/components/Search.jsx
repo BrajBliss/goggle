@@ -20,7 +20,7 @@ export const Search = () => {
 				type='text'
 				value={text}
 				className='sm:w-96 w-80 h-10 dark:bg-gray-200 border rounded-full shadow-sm outline-none p-6 text-black hover:shadow-lg'
-				placeholder='Search Goggle or type URL'
+				placeholder='Search Anything'
 				onChange={(e) => setText(e.target.value)}
 			/>
 			{!text && (
