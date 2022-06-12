@@ -13,9 +13,9 @@ export const Routes = () => {
 					exact
 					path={[
 						'/search',
-						'/images',
+						'/image',
 						'/news',
-						'/videos',
+						'/video',
 					]}>
 					<Results />
 				</Route>
