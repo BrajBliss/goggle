@@ -1,4 +1,4 @@
-# ReactJS Google Clone using RapidAPI and TailwindCSS.
+# Goggle Search Engine with ReactJS, TailwindCSS, and RapidAPI
 
 # Getting Started with Create React App
 
