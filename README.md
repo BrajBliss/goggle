@@ -1,2 +1,1 @@
-# goggle
-ReactJS Google Clone using RapidAPI and TailwindCSS.
+# ReactJS Google Clone using RapidAPI and TailwindCSS.
